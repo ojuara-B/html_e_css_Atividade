@@ -53,7 +53,7 @@ body {
     text-decoration: none;
   }
   ul li a:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(235, 221, 221);
     text-decoration: underline;
   }
   
@@ -183,22 +183,10 @@ body {
     
   }
 
-  .copyrightText {
-    padding: 8px 40px;
-    border-top: 1px solid rgba(38, 32, 121, 0.1);
-    margin: 0 auto;
-}
-.copyrightText p {
-    color: #333;
-}
-.copyrightText a {
-    color: #193a94d7;
-    font-weight: 400;
-    text-decoration: none;
-    margin: 0 auto;
+  
 
 
-}
+
 
 .redesSociais{
 padding-top: 1rem;
